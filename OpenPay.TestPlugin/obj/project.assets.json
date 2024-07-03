@@ -1,0 +1,115 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0": {
+      "OpenPay.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OpenPay.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      },
+      "OpenPay.SDK/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "OpenPay.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/OpenPay.SDK.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/_._": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OpenPay.Interface/1.0.0": {
+      "type": "project",
+      "path": "../OpenPay.Interface/OpenPay.Interface.csproj",
+      "msbuildProject": "../OpenPay.Interface/OpenPay.Interface.csproj"
+    },
+    "OpenPay.SDK/1.0.0": {
+      "type": "project",
+      "path": "../OpenPay.SDK/OpenPay.SDK.csproj",
+      "msbuildProject": "../OpenPay.SDK/OpenPay.SDK.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0": [
+      "OpenPay.SDK >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\marti\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj",
+      "projectName": "OpenPay.TestPlugin",
+      "projectPath": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj",
+      "packagesPath": "C:\\Users\\marti\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\marti\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "projectReferences": {
+            "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.SDK\\OpenPay.SDK.csproj": {
+              "projectPath": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.SDK\\OpenPay.SDK.csproj",
+              "excludeAssets": "runtime"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      }
+    },
+    "frameworks": {
+      "net8.0": {
+        "targetAlias": "net8.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

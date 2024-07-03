@@ -1,0 +1,12 @@
+.dtbcache.v2
+.futdcache.v2
+*.cache
+.suo
+*.vsidx
+*.testlog
+*.manifest
+*.bin
+*.dll
+
+Debug/
+Release/

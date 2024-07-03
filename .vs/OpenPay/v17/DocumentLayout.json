@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{263A7948-60D6-40F8-83F3-C7D154ED2D86}|OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.testplugin\\testplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{263A7948-60D6-40F8-83F3-C7D154ED2D86}|OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj|solutionrelative:openpay.testplugin\\testplugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4665E775-E88E-495F-93E9-7A4C4127893E}|OpenPay.SDK\\OpenPay.SDK.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.sdk\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4665E775-E88E-495F-93E9-7A4C4127893E}|OpenPay.SDK\\OpenPay.SDK.csproj|solutionrelative:openpay.sdk\\test.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}|OpenPay.Interface\\OpenPay.Interface.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.interface\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}|OpenPay.Interface\\OpenPay.Interface.csproj|solutionrelative:openpay.interface\\itestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.core\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|solutionrelative:openpay.core\\testcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|solutionrelative:openpay.core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.core\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|solutionrelative:openpay.core\\services\\testservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.core\\pluginloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5C25BB76-2436-4680-A469-F7C8DE929B8F}|OpenPay.Core\\OpenPay.Core.csproj|solutionrelative:openpay.core\\pluginloadcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{263A7948-60D6-40F8-83F3-C7D154ED2D86}|OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj|c:\\users\\marti\\code\\openpay\\openpay-backend\\openpay.testplugin\\openpay.testplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{263A7948-60D6-40F8-83F3-C7D154ED2D86}|OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj|solutionrelative:openpay.testplugin\\openpay.testplugin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OpenPay.TestPlugin.csproj",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj",
+              "RelativeDocumentMoniker": "OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj",
+              "RelativeToolTip": "OpenPay.TestPlugin\\OpenPay.TestPlugin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-02T22:23:28.634Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TestPlugin.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\TestPlugin.cs",
+              "RelativeDocumentMoniker": "OpenPay.TestPlugin\\TestPlugin.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.TestPlugin\\TestPlugin.cs",
+              "RelativeToolTip": "OpenPay.TestPlugin\\TestPlugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:21:15.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PluginLoadContext.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\PluginLoadContext.cs",
+              "RelativeDocumentMoniker": "OpenPay.Core\\PluginLoadContext.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\PluginLoadContext.cs",
+              "RelativeToolTip": "OpenPay.Core\\PluginLoadContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:09:32.231Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TestContext.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\TestContext.cs",
+              "RelativeDocumentMoniker": "OpenPay.Core\\TestContext.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\TestContext.cs",
+              "RelativeToolTip": "OpenPay.Core\\TestContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T22:01:48.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TestService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\Services\\TestService.cs",
+              "RelativeDocumentMoniker": "OpenPay.Core\\Services\\TestService.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\Services\\TestService.cs",
+              "RelativeToolTip": "OpenPay.Core\\Services\\TestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:52:23.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\Program.cs",
+              "RelativeDocumentMoniker": "OpenPay.Core\\Program.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Core\\Program.cs",
+              "RelativeToolTip": "OpenPay.Core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:51:22.266Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ITestService.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Interface\\ITestService.cs",
+              "RelativeDocumentMoniker": "OpenPay.Interface\\ITestService.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.Interface\\ITestService.cs",
+              "RelativeToolTip": "OpenPay.Interface\\ITestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:46:25.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Test.cs",
+              "DocumentMoniker": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.SDK\\Test.cs",
+              "RelativeDocumentMoniker": "OpenPay.SDK\\Test.cs",
+              "ToolTip": "C:\\Users\\marti\\Code\\OpenPay\\OpenPay-Backend\\OpenPay.SDK\\Test.cs",
+              "RelativeToolTip": "OpenPay.SDK\\Test.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-02T21:45:23.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

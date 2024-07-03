@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPay.SDK", "OpenPay.SDK\OpenPay.SDK.csproj", "{4665E775-E88E-495F-93E9-7A4C4127893E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPay.Interface", "OpenPay.Interface\OpenPay.Interface.csproj", "{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPay.Core", "OpenPay.Core\OpenPay.Core.csproj", "{5C25BB76-2436-4680-A469-F7C8DE929B8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OpenPay.TestPlugin", "OpenPay.TestPlugin\OpenPay.TestPlugin.csproj", "{263A7948-60D6-40F8-83F3-C7D154ED2D86}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4665E775-E88E-495F-93E9-7A4C4127893E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4665E775-E88E-495F-93E9-7A4C4127893E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4665E775-E88E-495F-93E9-7A4C4127893E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4665E775-E88E-495F-93E9-7A4C4127893E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAF71545-1DA4-4B95-9E45-6BF87BFDCB9B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C25BB76-2436-4680-A469-F7C8DE929B8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C25BB76-2436-4680-A469-F7C8DE929B8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C25BB76-2436-4680-A469-F7C8DE929B8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C25BB76-2436-4680-A469-F7C8DE929B8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{263A7948-60D6-40F8-83F3-C7D154ED2D86}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{263A7948-60D6-40F8-83F3-C7D154ED2D86}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{263A7948-60D6-40F8-83F3-C7D154ED2D86}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{263A7948-60D6-40F8-83F3-C7D154ED2D86}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD46D801-BEBB-4F97-A4DB-6F29F7A7F6AD}
+	EndGlobalSection
+EndGlobal
